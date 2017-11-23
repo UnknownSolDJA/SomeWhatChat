@@ -1,0 +1,21 @@
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.exe.config
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.csprojResolveAssemblyReference.cache
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.exe
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.pdb
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.exe
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.pdb
+C:\Users\niclab702-4\Downloads\chat\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.exe.config
+C:\Users\niclab702-4\Downloads\chat\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.exe
+C:\Users\niclab702-4\Downloads\chat\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.pdb
+C:\Users\niclab702-4\Downloads\chat\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.exe
+C:\Users\niclab702-4\Downloads\chat\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.pdb
+C:\Users\niclab702-4\Downloads\chat\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.csprojResolveAssemblyReference.cache
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\server\serverChat\serverChat\bin\Debug\serverChat.exe.config
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\server\serverChat\serverChat\obj\Debug\serverChat.exe
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\server\serverChat\serverChat\obj\Debug\serverChat.pdb
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\server\serverChat\serverChat\obj\Debug\serverChat.csprojResolveAssemblyReference.cache
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\server\serverChat\serverChat\bin\Debug\serverChat.exe
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\server\serverChat\serverChat\bin\Debug\serverChat.pdb
+C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\server\serverChat\serverChat\bin\Debug\serverChat.exe.config
+C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\server\serverChat\serverChat\obj\Debug\serverChat.exe
+C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\server\serverChat\serverChat\obj\Debug\serverChat.pdb

@@ -1,0 +1,13 @@
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\bin\Release\chatClient.exe.config
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\bin\Release\chatClient.exe
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\bin\Release\chatClient.pdb
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\obj\Release\chatClient.csprojResolveAssemblyReference.cache
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\obj\Release\chatClient.PasswordInsert.resources
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\obj\Release\chatClient.chatForm.resources
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\obj\Release\chatClient.Properties.Resources.resources
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\obj\Release\chatClient.csproj.GenerateResource.Cache
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\obj\Release\chatClient.exe
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\obj\Release\chatClient.pdb
+C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\client\chatClient\chatClient\bin\Release\chatClient.exe.config
+C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\client\chatClient\chatClient\obj\Release\chatClient.exe
+C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\client\chatClient\chatClient\obj\Release\chatClient.pdb

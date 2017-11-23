@@ -1,0 +1,32 @@
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.exe.config
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.exe
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.pdb
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.csprojResolveAssemblyReference.cache
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.chatForm.resources
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.Cache
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.exe
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.pdb
+C:\Users\niclab702-4\Downloads\chat\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.exe.config
+C:\Users\niclab702-4\Downloads\chat\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.exe
+C:\Users\niclab702-4\Downloads\chat\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.pdb
+C:\Users\niclab702-4\Downloads\chat\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.csprojResolveAssemblyReference.cache
+C:\Users\niclab702-4\Downloads\chat\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.chatForm.resources
+C:\Users\niclab702-4\Downloads\chat\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+C:\Users\niclab702-4\Downloads\chat\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.Cache
+C:\Users\niclab702-4\Downloads\chat\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.exe
+C:\Users\niclab702-4\Downloads\chat\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.pdb
+C:\Users\niclab702-4\Downloads\chat\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.PasswordInsert.resources
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\bin\Debug\chatClient.exe.config
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\obj\Debug\chatClient.exe
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\obj\Debug\chatClient.pdb
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\bin\Debug\chatClient.exe
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\bin\Debug\chatClient.pdb
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\obj\Debug\chatClient.csprojResolveAssemblyReference.cache
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\obj\Debug\chatClient.PasswordInsert.resources
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\obj\Debug\chatClient.chatForm.resources
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+\\172.30.4.20\обменка\123\_EXCHANGE\_Пинянский\Task\client\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.Cache
+C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\client\chatClient\chatClient\bin\Debug\chatClient.exe.config
+C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\client\chatClient\chatClient\obj\Debug\chatClient.exe
+C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\client\chatClient\chatClient\obj\Debug\chatClient.pdb
