@@ -52,7 +52,8 @@ namespace serverChat
                     Server.EndConnection(Server.Clients[Convert.ToInt32(advCmd)]);
                     break;
                 case "/clearall":
-                    ChatController.ClearChat();
+                    for (int i = 0; i < Server.Clients.Count; i++)
+                        Server.Clients[i].Broadcast("!!!chaturgentclean&");
                     break;
                 default:
                     break;

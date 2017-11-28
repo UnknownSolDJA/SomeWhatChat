@@ -30,3 +30,20 @@ C:\Users\niclab702-4\Downloads\chat\video\chat\client\chatClient\chatClient\obj\
 C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\client\chatClient\chatClient\bin\Debug\chatClient.exe.config
 C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\client\chatClient\chatClient\obj\Debug\chatClient.exe
 C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\client\chatClient\chatClient\obj\Debug\chatClient.pdb
+C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\client\chatClient\chatClient\bin\Debug\chatClient.exe
+C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\client\chatClient\chatClient\bin\Debug\chatClient.pdb
+C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\client\chatClient\chatClient\obj\Debug\chatClient.csprojResolveAssemblyReference.cache
+C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\client\chatClient\chatClient\obj\Debug\chatClient.PasswordInsert.resources
+C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\client\chatClient\chatClient\obj\Debug\chatClient.chatForm.resources
+C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\client\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\client\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.Cache
+E:\Пинянский\Task\client\chatClient\chatClient\bin\Debug\chatClient.exe.config
+E:\Пинянский\Task\client\chatClient\chatClient\obj\Debug\chatClient.exe
+E:\Пинянский\Task\client\chatClient\chatClient\obj\Debug\chatClient.pdb
+E:\Пинянский\Task\client\chatClient\chatClient\bin\Debug\chatClient.exe
+E:\Пинянский\Task\client\chatClient\chatClient\bin\Debug\chatClient.pdb
+E:\Пинянский\Task\client\chatClient\chatClient\obj\Debug\chatClient.csprojResolveAssemblyReference.cache
+E:\Пинянский\Task\client\chatClient\chatClient\obj\Debug\chatClient.PasswordInsert.resources
+E:\Пинянский\Task\client\chatClient\chatClient\obj\Debug\chatClient.chatForm.resources
+E:\Пинянский\Task\client\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+E:\Пинянский\Task\client\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.Cache

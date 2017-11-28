@@ -10,6 +10,7 @@ namespace serverChat
     public class Client
     {
         private string _userName;
+        private string _userPsswd;
         private Socket Hand;
         private Thread Thread;
         public Client(Socket socket)
@@ -55,28 +56,52 @@ namespace serverChat
             if (data.Contains("#setname"))
             {
                 _userName = data.Split('&')[1];
-                UpdateChat();
+                ChatController.updateOnlineList(_userName);
                 return;
             }
-            if (data.Contains("#newmsg"))
+            if(data.Contains("#ntrdpsswd"))
+            {
+                _userPsswd = data.Split('&')[1];
+                if (ChatController.CheckingPassword(_userPsswd))
+                    Broadcast("#crrctpsswd&");
+                else
+                    Broadcast("#incrrctpsswd&");
+                return;
+            }
+            if(data.Contains("#newmsg"))
             {
                 string message = data.Split('&')[1];
-                ChatController.AddMessage(_userName,message);
+                ChatController.SendMessage(_userName, message);
+                return;
+            }
+            if (data.Contains("!!!urgentchatclean&"))
+            {
+                ChatController.ClearAllChats();
                 return;
             }
         }
         public void UpdateChat()
         {
-            Send(ChatController.GetChat(), Server.Clients);
+            Send(ChatController.GetChat());
         }
-        public void Send(string command, List<Client> Clients)
+        public void Send(string command)
         {
             try
             {
                 int bytesSent = Hand.Send(Encoding.UTF8.GetBytes(command));
                 if (bytesSent > 0) Console.WriteLine("Success");
             }
-            catch (Exception exp) { Console.WriteLine("Error with send command: {0}.", exp.Message); Server.EndConnection(this); }
+            catch (Exception exp) { Console.WriteLine("Error with send command: {0}", exp.Message); Server.EndConnection(this); }
         }
+        public void Broadcast(string command)
+        {
+            try
+            {
+                int bytesSent = Hand.Send(Encoding.UTF8.GetBytes(command));
+                if (bytesSent > 0) Console.WriteLine("Success");
+            }
+            catch (Exception ex) { Console.WriteLine("Error with send command: {0}", ex.Message); Server.EndConnection(this);}
+        }
+
     }
 }

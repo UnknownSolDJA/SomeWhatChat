@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace serverChat
 {
     public static class ChatController
     {
-        private const int _maxMessage = 100;
+        private const int _maxMessage = 50;
         public static List<message> Chat = new List<message>();
         public struct message
         {
@@ -20,24 +21,57 @@ namespace serverChat
                 data = msg;
             }
         }
-        public static void AddMessage(string userName,string msg)
+        public static void SendMessage (string userName, string msg)
         {
             try
             {
-                if (string.IsNullOrEmpty(userName) || string.IsNullOrEmpty(msg)) return;
-                int countMessages = Chat.Count;
-                if (countMessages > _maxMessage) ClearChat();
-                message newMessage = new message(userName, msg);
-                Chat.Add(newMessage);
-                Console.WriteLine("New message from {0}",userName);
-                Server.UpdateAllChats();
+                for( int i = 0; i < Server.Clients.Count; i++)
+                {
+                    Server.Clients[i].Broadcast("#messageadd&" + userName + "~" + msg);
+                }
             }
-            catch (Exception exp) { Console.WriteLine("Error with adding message: {0}.", exp.Message); }
+            catch (Exception ex) { Console.WriteLine("Error with sending: {0}.", ex.Message); }
+        }
+        public static void updateOnlineList (string username)
+        {
+            try
+            {
+                string usersList = "";
+                for (int i = 0; i < Server.Clients.Count; i++)
+                    usersList += Server.Clients[i].UserName + "|";
+                for (int i = 0; i < Server.Clients.Count; i++)
+                    Server.Clients[i].Broadcast("#userslist&" + usersList);
+
+            }
+            catch (Exception ex) { Console.WriteLine("Error with updating clientlist: {0}.", ex.Message); }
         }
         public static void ClearChat()
         {
             Chat.Clear();
             Server.UpdateAllChats();
+        }
+        public static void ClearAllChats()
+        {
+            try
+            {
+                for (int i = 0; i < Server.Clients.Count; i++)
+                    Server.Clients[i].Broadcast("!!!chaturgentclean&");
+            }
+            catch (Exception ex) { Console.WriteLine("Error with sending: {0}.", ex.Message); }
+        }
+        public static bool CheckingPassword(string currentPassword)
+        {
+            FileStream passbase = new FileStream("E:\\Пинянский\\Task\\server\\serverChat\\passbase.txt",
+                FileMode.Open, FileAccess.Read);
+            StreamReader reader = new StreamReader(passbase);
+            string buffer = reader.ReadToEnd();
+            string[] allpswds = buffer.Split('~');
+            for( int i = 0; i < allpswds.Length; i++)
+            {
+                if (currentPassword == allpswds[i])
+                    return true;
+            }
+            return false;
         }
         public static string GetChat()
         {

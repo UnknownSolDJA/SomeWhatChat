@@ -4,3 +4,9 @@ C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\server\serverCha
 C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\server\serverChat\serverChat\obj\Release\serverChat.csprojResolveAssemblyReference.cache
 C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\server\serverChat\serverChat\obj\Release\serverChat.exe
 C:\Users\niclab702-4\Documents\Visual Studio 2013\Projects\Task\server\serverChat\serverChat\obj\Release\serverChat.pdb
+E:\Пинянский\Task\server\serverChat\serverChat\bin\Release\serverChat.exe.config
+E:\Пинянский\Task\server\serverChat\serverChat\obj\Release\serverChat.exe
+E:\Пинянский\Task\server\serverChat\serverChat\obj\Release\serverChat.pdb
+E:\Пинянский\Task\server\serverChat\serverChat\bin\Release\serverChat.exe
+E:\Пинянский\Task\server\serverChat\serverChat\bin\Release\serverChat.pdb
+E:\Пинянский\Task\server\serverChat\serverChat\obj\Release\serverChat.csprojResolveAssemblyReference.cache
